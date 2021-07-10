@@ -5,5 +5,33 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
+
+/* COMMON */
+
+/* FINE COMMON */
+
+/* HEADER */
+/* section my_sticky */
+#my_sticky {
+    height: 67px;
+    background-color: #000000;
+}
+
+#my_sticky svg {
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* DEBUG */
