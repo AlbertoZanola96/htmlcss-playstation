@@ -49,7 +49,17 @@ body {
 }
 /* fine jumbotron */
 
+/* main sezione 1 */
+#main_sez_1 img {
+    width: 100%;
+    border-radius: 20px;
+}
+/* fine main sezione 1 */
 
+/* inzio main sezione 2 */
+#main_sez_2 img{
+    width: 50%;
+}
 
 
 
