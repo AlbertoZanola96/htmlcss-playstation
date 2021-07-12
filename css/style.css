@@ -91,8 +91,24 @@ body {
     background-color: #CD3D0F;
     color: white;
 }
+ /* fine secondo jumbotron */
 
+/* inizio main sezione 3 */
+#main_sez_3 {
+    background-color: #1F1F1F;
+}
 
+#main_sez_3 img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+#main_sez_3 .fa-trademark {
+    position: relative;
+    bottom: 5px;
+    font-size: 10px;
+}
+/* fine main sezione 3 */
 
 
 
