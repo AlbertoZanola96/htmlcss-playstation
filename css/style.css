@@ -47,6 +47,10 @@ body {
     background-color: #CD3D0F;
     color: white;
 }
+
+.my_row_jumbo {
+    max-width: 100%
+}
 /* fine jumbotron */
 
 /* main sezione 1 */
