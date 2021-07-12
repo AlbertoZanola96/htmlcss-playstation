@@ -110,6 +110,23 @@ body {
 }
 /* fine main sezione 3 */
 
+/* inizio main sezione 4 */
+#main_sez_4 .fa-registered {
+    position: relative;
+    bottom: 12px;
+    right: 10px;
+    font-size: 15px;
+}
+
+#main_sez_4 img {
+    width: 100%;
+}
+
+#main_sez_4 a {
+    width: 150px;
+}
+/* fine main sezione 4 */
+
 
 
 /* DEBUG */
