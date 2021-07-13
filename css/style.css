@@ -155,6 +155,26 @@ body {
     height: 500px;
     object-fit: contain;
 }
+/* fine main sezione 6 */
+
+/* terzo jumbotron */
+#jumbotron_3 {
+    width: 100%;
+    height: 400px;
+    background-color: #161C3B;
+}
+
+#my_img_jumbo {
+    max-width: 70%;
+    margin-bottom: 30px;
+}
+
+#my_img-jumbo_2 {
+    height: 400px;
+    object-fit: contain;
+    padding-right: 100px;
+}
+
 
 
 
@@ -175,6 +195,11 @@ body {
     #main_sez_5 {
         background-image: none;
     }
+
+    #my_img-jumbo_2 {
+        display: none;
+    }
+
 }
 
 /* DEBUG */
