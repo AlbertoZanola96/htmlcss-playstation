@@ -178,10 +178,35 @@ body {
 
 /* inizio main sezione 7 */
 .my_social {
-    width: 100%;
     height: 200px;
 }
+/* fine main sezione 7 */
+/* / MAIN */
 
+/* FOOTER */
+footer {
+    background-color: #00439C;
+    width: 100%;
+    height: 600px;
+}
+
+footer #img_foot_1 {
+    width: 3%;
+}
+
+footer #img_foot_2 {
+    width: 10%;
+}
+
+
+
+footer ul li  {
+    color: white;
+    list-style: none;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-right: 100px;
+}
 
 
 
